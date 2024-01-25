@@ -1,0 +1,15 @@
+.tasks-main {
+    display: flex;
+    gap: 12px;
+}
+
+.tasks-main h2 {
+    margin-top: 0px;
+}
+
+.tasks-form {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 6px;
+}
