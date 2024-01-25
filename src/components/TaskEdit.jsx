@@ -58,7 +58,7 @@ function TaskEdit() {
           placeholder="Detalles de la tarea"
           onChange={(e) => descriptionChange(e.target)}
         />
-        <button className="btn btn-success" onClick={actionEdit}>Editar tarea</button>
+        <button className="btn btn-success" onClick={actionEdit}>Actualizar</button>
       </div>
     </>
   );
